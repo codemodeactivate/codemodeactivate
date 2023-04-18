@@ -19,5 +19,5 @@ I'm supplementing my learning with: ![Udemy](https://img.shields.io/badge/Udemy-
 - 🌱 I’m currently learning Node.js & Express.js
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with database design
-- 📫 How to reach me: [email](mailto:jeff.zenko@gmail.com)
-- ⚡ Fun fact: I was in my mom's arms when we went through the gates at Disneyworld on my 1st birthday. We won a truck, got to be in a parade, and I met Mickey :) I remember none of it. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jeff-zenko/)
+- ⚡ Fun fact: I was in my mom's arms when we went through the gates at Disneyworld on my 1st birthday. We won a truck, got to be in a parade, and I met Mickey :) I remember none of it.
