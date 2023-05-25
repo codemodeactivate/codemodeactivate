@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-Howdy!
+Hello there!
 
-I'm a mid-career professional that got interested in becoming a product owner. In doing so, I took a few agile courses and thought learning to actually code instead of just fumbling through tutorials might be a good idea. I've tinkered with WordPress and website creation for ~20 years. Remember angelfire.com? I do!
+I'm an experienced professional who's cultivated a new passion for becoming a product owner. My journey into this realm began with agile training courses, which sparked an interest in acquiring a more hands-on understanding of coding - a transition from merely scratching the surface with tutorials to developing substantial tech competency.
 
-Anyway, I'm currently enrolled in a bootcamp ![edX](https://img.shields.io/badge/edX-%2302262B.svg?logo=edX&logoColor=white) and expect to finish in August 2023. I'm absolutely loving it and it's totally reignited my passion for development. At the end of the day, I truly just love creating things (or trying to), learning hard things, always being challenged, and constantly feeling like I'm terrible. I think that's why I love jiu jitsu so much, too.
+My two-decade-long affair with website creation, starting from the days of angelfire.com to tinkering with WordPress, has given me a unique perspective on the evolution of the digital landscape.
+
+Currently, I'm in the midst of a comprehensive coding bootcamp on ![edX](https://img.shields.io/badge/edX-%2302262B.svg?logo=edX&logoColor=white), set to graduate in August 2023. This rigorous yet fulfilling experience has not only deepened my technical understanding but also rekindled my zest for the field of development.
+
+I thrive on challenges that come with learning and creating - a driving force behind my relentless pursuit of mastering the complex world of development. This passion translates into my love for jiu-jitsu, where, much like in coding, constant learning and growth underpin success.
+
+In my quest to become a successful product owner, I am actively seeking opportunities to apply and expand my newfound coding skills in a professional environment. My strong foundation in website creation, coupled with my developing coding expertise, positions me uniquely to bridge the gap between product vision and technical execution. I welcome any collaborations or potential work opportunities. I can't wait to contribute my skills and learn from the best in the industry!
+
+
 
 I'm supplementing my learning with: ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white), as well as [App Academy](https://www.appacademy.io)
 
