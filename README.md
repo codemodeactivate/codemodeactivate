@@ -2,6 +2,8 @@
 
 <!-- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently loving Astro
+- Trying to find time to redo my own personal site - jeffzenko.com
+- Sucking at jiujitsu
 - 👯 I’m looking to collaborate on anything
 - Making an app with React Native with a friend
 - Tinkering with a new app that would require Doordash API calls, but would make them very angry at me (goal would be to help users stop ordering doordash & save $!) This is a huge passion of mine. 
